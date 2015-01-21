@@ -50,7 +50,7 @@ suite('isAnsi', function () {
     done();
   });
 
-  test('returns true for a string with the desired color and style.', function (done) {
+  test('returns false for a string without the desired color and style.', function (done) {
     var text = chalk.red.italic('foo');
 
     assert.that(isAnsi.green(text), is.false());
