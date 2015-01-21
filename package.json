@@ -1,0 +1,29 @@
+{
+  "name": "isansi",
+  "version": "0.0.0",
+  "description": "isansi checks whether a string uses ANSI color and style.",
+  "contributors": [
+    {
+      "name": "Golo Roden",
+      "email": "golo.roden@thenativeweb.io"
+    },
+    {
+      "name": "Matthias Wagler",
+      "email": "matthias.wagler@thenativeweb.io"
+    }
+  ],
+  "main": "lib/isAnsi.js",
+  "dependencies": {
+    "chalk": "0.5.1"
+  },
+  "devDependencies": {
+    "assertthat": "0.3.0",
+    "grunt": "0.4.5",
+    "tourism": "0.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thenativeweb/isansi.git"
+  },
+  "license": "MIT"
+}
