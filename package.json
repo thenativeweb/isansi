@@ -25,5 +25,8 @@
     "type": "git",
     "url": "git://github.com/thenativeweb/isansi.git"
   },
+  "keywords": [
+    "ansi"
+  ],
   "license": "MIT"
 }
