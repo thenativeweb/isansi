@@ -10,16 +10,21 @@
     {
       "name": "Matthias Wagler",
       "email": "matthias.wagler@thenativeweb.io"
+    },
+    {
+      "name": "Hannes Leutloff",
+      "email": "hannes.leutloff@thenativeweb.io"
     }
   ],
-  "main": "lib/isAnsi.js",
+  "main": "build/lib/isAnsi.js",
+  "types": "build/lib/isAnsi.d.ts",
   "dependencies": {
-    "chalk": "0.5.1"
+    "ansi-styles": "4.1.0"
   },
   "devDependencies": {
-    "assertthat": "0.3.0",
-    "grunt": "0.4.5",
-    "tourism": "0.10.2"
+    "@types/ansi-styles": "3.2.1",
+    "assertthat": "4.0.1",
+    "roboter": "7.1.1"
   },
   "repository": {
     "type": "git",
