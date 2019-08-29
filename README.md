@@ -20,7 +20,7 @@ $ npm install isansi
 
 ## Quick start
 
-First you need to add a reference to isansi in your application.
+First you need to add a reference to isansi in your application:
 
 ```javascript
 const isAnsi = require('isansi').default;
@@ -32,7 +32,7 @@ If you use TypeScript, use the following code instead:
 import isAnsi from 'isAnsi';
 ```
 
-To check a string for a specific color or style, use the appropriate function of the `isAnsi` object.
+To check a string for a specific color or style, use the appropriate function of the `isAnsi` object:
 
 ```javascript
 const text = chalk.green.bold('foo');
@@ -48,7 +48,7 @@ The module supports all colors and styles that are supported by [chalk](https://
 
 ## Running the build
 
-To build this module use [roboter](https://www.npmjs.com/package/roboter).
+To build this module use [roboter](https://www.npmjs.com/package/roboter):
 
 ```shell
 $ npx roboter
