@@ -23,7 +23,7 @@ $ npm install processenv
 First you need to add a reference to isansi in your application.
 
 ```javascript
-var isAnsi = require('isansi').default;
+const isAnsi = require('isansi').default;
 ```
 
 If you use TypeScript, use the following code instead:
@@ -35,7 +35,7 @@ import isAnsi from 'isAnsi';
 To check a string for a specific color or style, use the appropriate function of the `isAnsi` object.
 
 ```javascript
-var text = chalk.green.bold('foo');
+const text = chalk.green.bold('foo');
 
 console.log(isAnsi.green(text));  // => true
 console.log(isAnsi.bold(text));   // => true
