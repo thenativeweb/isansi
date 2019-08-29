@@ -15,7 +15,7 @@ isansi checks whether a string uses ANSI color and style.
 ## Installation
 
 ```shell
-$ npm install processenv
+$ npm install isansi
 ```
 
 ## Quick start
