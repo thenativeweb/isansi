@@ -1,6 +1,6 @@
 import ansiStyles from 'ansi-styles';
 import assert from 'assertthat';
-import isAnsi from '../lib/isAnsi';
+import isAnsi from '../../lib/isAnsi';
 
 suite('isAnsi', (): void => {
   test('is an object.', async (): Promise<void> => {
