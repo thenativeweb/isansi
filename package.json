@@ -24,7 +24,7 @@
   "devDependencies": {
     "@types/ansi-styles": "3.2.1",
     "assertthat": "4.0.2",
-    "roboter": "8.2.0"
+    "roboter": "8.2.1"
   },
   "repository": {
     "type": "git",
