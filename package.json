@@ -22,7 +22,6 @@
     "ansi-styles": "4.2.0"
   },
   "devDependencies": {
-    "@types/ansi-styles": "3.2.1",
     "assertthat": "4.0.2",
     "roboter": "9.1.0"
   },
