@@ -23,13 +23,13 @@ $ npm install isansi
 First you need to add a reference to isansi in your application:
 
 ```javascript
-const isAnsi = require('isansi').default;
+const { isAnsi } = require('isansi');
 ```
 
 If you use TypeScript, use the following code instead:
 
 ```typescript
-import isAnsi from 'isAnsi';
+import { isAnsi } from 'isAnsi';
 ```
 
 To check a string for a specific color or style, use the appropriate function of the `isAnsi` object:

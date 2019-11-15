@@ -99,4 +99,4 @@ const isAnsi = {
   bgWhiteBright: isAnsiFactory(bgWhiteBright)
 };
 
-export default isAnsi;
+export { isAnsi };

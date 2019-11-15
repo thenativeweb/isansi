@@ -1,12 +1,8 @@
 import ansiStyles from 'ansi-styles';
-import assert from 'assertthat';
-import isAnsi from '../../lib/isAnsi';
+import { assert } from 'assertthat';
+import { isAnsi } from '../../lib/isAnsi';
 
 suite('isAnsi', (): void => {
-  test('is an object.', async (): Promise<void> => {
-    assert.that(isAnsi).is.ofType('object');
-  });
-
   test('supports the color and styles of ansi-styles.', async (): Promise<void> => {
     assert.that(isAnsi.reset).is.ofType('function');
     assert.that(isAnsi.bold).is.ofType('function');
