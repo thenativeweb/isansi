@@ -1,3 +1,10 @@
+## [2.0.3](https://github.com/thenativeweb/isansi/compare/2.0.2...2.0.3) (2020-11-03)
+
+
+### Bug Fixes
+
+* Fix headline for robot section in readme. ([#192](https://github.com/thenativeweb/isansi/issues/192)) ([abb7837](https://github.com/thenativeweb/isansi/commit/abb78372ecc82cf9bf172b9e74f57436f6e8d705))
+
 ## [2.0.2](https://github.com/thenativeweb/isansi/compare/2.0.1...2.0.2) (2020-10-05)
 
 
