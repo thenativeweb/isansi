@@ -19,7 +19,7 @@
   "main": "build/lib/isAnsi.js",
   "types": "build/lib/isAnsi.d.ts",
   "dependencies": {
-    "ansi-styles": "5.0.0"
+    "ansi-styles": "5.1.0"
   },
   "devDependencies": {
     "assertthat": "5.2.5",
