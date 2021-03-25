@@ -1,3 +1,10 @@
+## [2.0.6](https://github.com/thenativeweb/isansi/compare/2.0.5...2.0.6) (2021-03-25)
+
+
+### Bug Fixes
+
+* Migrate from master to main. ([#276](https://github.com/thenativeweb/isansi/issues/276)) ([60d5264](https://github.com/thenativeweb/isansi/commit/60d52649d7a6bc990b4d8fc67a441c87daea1cf4))
+
 ## [2.0.5](https://github.com/thenativeweb/isansi/compare/2.0.4...2.0.5) (2021-01-22)
 
 
