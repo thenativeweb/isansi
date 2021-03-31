@@ -1,3 +1,10 @@
+## [2.0.7](https://github.com/thenativeweb/isansi/compare/2.0.6...2.0.7) (2021-03-31)
+
+
+### Bug Fixes
+
+* bump ansi-styles from 5.1.0 to 5.2.0 ([#286](https://github.com/thenativeweb/isansi/issues/286)) ([9b231ff](https://github.com/thenativeweb/isansi/commit/9b231ff13951e3b831ab0a75ebb217b4b442fb85))
+
 ## [2.0.6](https://github.com/thenativeweb/isansi/compare/2.0.5...2.0.6) (2021-03-25)
 
 
