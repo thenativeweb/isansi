@@ -1,3 +1,10 @@
+## [2.0.8](https://github.com/thenativeweb/isansi/compare/2.0.7...2.0.8) (2021-05-11)
+
+
+### Bug Fixes
+
+* bump hosted-git-info from 2.8.8 to 2.8.9 ([#296](https://github.com/thenativeweb/isansi/issues/296)) ([36f4c9b](https://github.com/thenativeweb/isansi/commit/36f4c9b7db739e336c779310b7b37547b3340dd2))
+
 ## [2.0.7](https://github.com/thenativeweb/isansi/compare/2.0.6...2.0.7) (2021-03-31)
 
 
