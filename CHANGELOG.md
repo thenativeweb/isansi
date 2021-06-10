@@ -1,3 +1,10 @@
+## [2.0.9](https://github.com/thenativeweb/isansi/compare/2.0.8...2.0.9) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump glob-parent from 5.1.1 to 5.1.2 ([#310](https://github.com/thenativeweb/isansi/issues/310)) ([2e061b8](https://github.com/thenativeweb/isansi/commit/2e061b818f9a43ae17e8f547a9237d88aa76d9ea))
+
 ## [2.0.8](https://github.com/thenativeweb/isansi/compare/2.0.7...2.0.8) (2021-05-11)
 
 
