@@ -1,3 +1,10 @@
+## [2.0.10](https://github.com/thenativeweb/isansi/compare/2.0.9...2.0.10) (2021-06-10)
+
+
+### Bug Fixes
+
+* bump trim-newlines from 3.0.0 to 3.0.1 ([#309](https://github.com/thenativeweb/isansi/issues/309)) ([0f9f359](https://github.com/thenativeweb/isansi/commit/0f9f35969b8148ee8c80a09b25ac336fd2b5f34d))
+
 ## [2.0.9](https://github.com/thenativeweb/isansi/compare/2.0.8...2.0.9) (2021-06-10)
 
 
