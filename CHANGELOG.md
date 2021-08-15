@@ -1,3 +1,10 @@
+## [2.0.11](https://github.com/thenativeweb/isansi/compare/2.0.10...2.0.11) (2021-08-15)
+
+
+### Bug Fixes
+
+* bump path-parse from 1.0.6 to 1.0.7 ([#324](https://github.com/thenativeweb/isansi/issues/324)) ([2599fb0](https://github.com/thenativeweb/isansi/commit/2599fb0d22bba0ca072122d6277aae4dfb831dd1))
+
 ## [2.0.10](https://github.com/thenativeweb/isansi/compare/2.0.9...2.0.10) (2021-06-10)
 
 
