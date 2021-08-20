@@ -1,3 +1,10 @@
+## [2.0.12](https://github.com/thenativeweb/isansi/compare/2.0.11...2.0.12) (2021-08-20)
+
+
+### Bug Fixes
+
+* add include to tsconfig ([#327](https://github.com/thenativeweb/isansi/issues/327)) ([4591194](https://github.com/thenativeweb/isansi/commit/45911944be10bc9153494e50c28bbf15d9ea6d5c))
+
 ## [2.0.11](https://github.com/thenativeweb/isansi/compare/2.0.10...2.0.11) (2021-08-15)
 
 
