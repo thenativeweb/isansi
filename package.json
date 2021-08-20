@@ -19,15 +19,12 @@
   "private": false,
   "main": "build/lib/isAnsi.js",
   "types": "build/lib/isAnsi.d.ts",
-  "engines": {
-    "node": ">= 16.7.0"
-  },
   "dependencies": {
     "ansi-styles": "5.2.0"
   },
   "devDependencies": {
     "assertthat": "6.3.12",
-    "roboter": "12.1.1",
+    "roboter": "12.1.2",
     "semantic-release-configuration": "2.0.5"
   },
   "scripts": {},
