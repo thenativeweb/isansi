@@ -1,3 +1,10 @@
+## [2.0.13](https://github.com/thenativeweb/isansi/compare/2.0.12...2.0.13) (2021-08-24)
+
+
+### Bug Fixes
+
+* add exclude to tsconfig.json, remove engine constraint ([#328](https://github.com/thenativeweb/isansi/issues/328)) ([75b41ca](https://github.com/thenativeweb/isansi/commit/75b41caad8f6d5f8d22cd7a80affc15a71cb802e))
+
 ## [2.0.12](https://github.com/thenativeweb/isansi/compare/2.0.11...2.0.12) (2021-08-20)
 
 
