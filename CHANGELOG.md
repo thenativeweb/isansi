@@ -1,3 +1,10 @@
+## [2.0.14](https://github.com/thenativeweb/isansi/compare/2.0.13...2.0.14) (2022-03-25)
+
+
+### Bug Fixes
+
+* bump minimist from 1.2.5 to 1.2.6 ([#345](https://github.com/thenativeweb/isansi/issues/345)) ([00a25b9](https://github.com/thenativeweb/isansi/commit/00a25b95a297214d459ed7b82ce0478469085c7b))
+
 ## [2.0.13](https://github.com/thenativeweb/isansi/compare/2.0.12...2.0.13) (2021-08-24)
 
 

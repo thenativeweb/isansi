@@ -1,6 +1,6 @@
 {
   "name": "isansi",
-  "version": "2.0.13",
+  "version": "2.0.14",
   "description": "isansi checks whether a string uses ANSI color and style.",
   "contributors": [
     {
