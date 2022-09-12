@@ -20,7 +20,7 @@
   "main": "build/lib/isAnsi.js",
   "types": "build/lib/isAnsi.d.ts",
   "dependencies": {
-    "ansi-styles": "5.2.0"
+    "ansi-styles": "6.1.1"
   },
   "devDependencies": {
     "assertthat": "6.5.2",
